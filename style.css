@@ -2,7 +2,7 @@ body{
     text-align: center;
     background-image:url(Lago-Moraine-Parque-Nacional-Banff-Alberta-Canada.jpg) ;
     background-size: cover;
-    
+    overflow-x: hidden;
 }
 #seraonosera{
     color: red;
