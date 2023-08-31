@@ -17,20 +17,21 @@ body{
     bottom:28%;
     top:28%;
 }
-#dibuja{
-    position: fixed;
-    top:10%;
-    right: 20%;
-}
+
 button{
-    background-color: unset;
+    background-color: rgba(255, 250, 250, 0.733);
     border-radius: 5px;
     font-size: 20px;
+    
 }
-#segundero {
-    position: fixed;
-    top:10%;
-    left :20%
+#segundero,#marcador {
+    font-weight: bold;
+    color: floralwhite;
+    background-color: darkmagenta;
+    width: fit-content;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 0 10px;
 }
 #copapiston{
     position: fixed;
